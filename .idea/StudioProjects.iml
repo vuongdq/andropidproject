@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/armor_mayhem/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/armor_mayhem/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/armor_mayhem/build" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona/build" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona_new/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona_new/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/extreme_pamplona_new/build" />
+      <excludeFolder url="file://$MODULE_DIR$/jack_frost_new/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/jack_frost_new/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/jack_frost_new/build" />
+      <excludeFolder url="file://$MODULE_DIR$/laser_cannon/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/laser_cannon/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/laser_cannon/build" />
+      <excludeFolder url="file://$MODULE_DIR$/madness_hydraulic/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/madness_hydraulic/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/madness_hydraulic/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/strike_force_heroes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/strike_force_heroes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mini_putt/strike_force_heroes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/natural_selection/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/natural_selection/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/natural_selection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pest_beat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pest_beat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pest_beat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/plants_vs_zombies_flash/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/plants_vs_zombies_flash/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/plants_vs_zombies_flash/build" />
+      <excludeFolder url="file://$MODULE_DIR$/scrap_metal_heroes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/scrap_metal_heroes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/scrap_metal_heroes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/street_race/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/street_race/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/street_race/build" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes_3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes_3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/strike_force_heroes_3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
